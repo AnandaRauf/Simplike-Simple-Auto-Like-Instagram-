@@ -1,7 +1,7 @@
-Simple auto like dan komen Instagram 
-Tools marketing panjat sosial Instagram
-Developed by : Ananda Rauf Maududi 
-Developed date : 24 June 2020
+Simple auto like dan komen Instagram .
+Tools marketing panjat sosial Instagram .
+Developed by : Ananda Rauf Maududi .
+Developed date : 24 June 2020 .
 _____________________________________________________________________________________________________________________________________________________________________________
 
 Required : 
