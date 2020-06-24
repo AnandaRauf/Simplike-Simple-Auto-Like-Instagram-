@@ -8,4 +8,4 @@ Required :
 - Instapy : pip install instapy 
 - Visual Studio 2017 
 
-Video demo : 
+Video demo : https://youtu.be/KLwbVnIDUk0
