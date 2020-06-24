@@ -8,4 +8,5 @@ Required :
 - Instapy : pip install instapy 
 - Visual Studio 2017 
 - Selenium browser : pip.exe install selenium
+
 Video demo : https://youtu.be/KLwbVnIDUk0
